@@ -42,7 +42,30 @@ It's important to think of the developers who are browsing the channels.   The f
 
 - If it's something that has software dependencies such as a Python/Heroku app, it might be relevant to specify package versions.
 
-- Don't attach screenshots of code.   Screenshots should rarely be necessary. Code, and console traffic, should be in code blocks, which are delimited at both ends by three backticks (the character at the top left of UK keyboards, just below the Escape key).   Just type three backticks, paste your code block, then type three more backticks.   Done!   To delimit short code keywords or phrases in a sentence, use a single backtick.
+- Don't attach screenshots of code.   Screenshots should rarely be necessary. Code, and console traffic, should be in code blocks, which are delimited at both ends by three backticks (the character at the top left of UK keyboards, just below the Escape key).   Just type three backticks, paste your code block, then type three more backticks.   Like this:
+
+```
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="3d link test - confirmatory page">
+    <meta name="author" content="Example">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">    
+    <title>Example Code Block</title>
+</head>
+
+<body>
+    <h1>Example of a Code Block delimited by 3 backticks</h1>
+</body>
+</html>
+```
+
+Done!
+
+- To delimit short code keywords or phrases in a sentence, use a single backtick, like this: `<a href="#">Foo</a>`.
 
 - Don't include extraneous information that's not relevant to the issue.   Distil it down!
 
