@@ -62,10 +62,7 @@ It's important to think of the developers who are browsing the channels.   The f
 </body>
 </html>
 ```
-
-Done!
-
-- To delimit short code keywords or phrases in a sentence, use a single backtick at each end.   It'll look like this: `<a href="#">Foo</a>`.[^1]
+To delimit short code keywords or phrases in a sentence, use a single backtick at each end.   It'll look like this: `<a href="#">Foo</a>`. Note that these two constructs are the same in Markdown, which you must use to create your README.md file for each project.
 
 - Don't include extraneous information that's not relevant to the issue.   Distil it down!
 
@@ -74,4 +71,3 @@ Done!
 
 For examples of good questions, look on Stack Overflow for questions with hundreds of upvotes.   And When people help you, remember that acknowledgement costs little and increases the amount of joy in the world!
 
-[^1]: These two constructs are the same in Markdown, which you must use to create your README.md file for each project.
