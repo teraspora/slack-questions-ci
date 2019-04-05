@@ -42,7 +42,7 @@ It's important to think of the developers who are browsing the channels.   The f
 
 - If it's something that has software dependencies such as a Python/Heroku app, it might be relevant to specify package versions.
 
-- Don't attach screenshots of code.   Screenshots should rarely be necessary. Code, and console traffic, should be in code blocks, which are delimited at both ends by three backticks (the character at the top left of UK keyboards, just below the Escape key).   Just type three backticks, paste your code block, then type three more backticks.   Like this:
+- Don't attach screenshots of code.   Screenshots should rarely be necessary. Code, and console traffic, should be in code blocks, which are delimited at both ends by three backticks (the character at the top left of UK keyboards, just below the Escape key).   Just type three backticks, paste your code block, then type three more backticks.   It'll appear thus:
 
 ```
 <!doctype html>
@@ -65,7 +65,7 @@ It's important to think of the developers who are browsing the channels.   The f
 
 Done!
 
-- To delimit short code keywords or phrases in a sentence, use a single backtick, like this: `<a href="#">Foo</a>`.
+- To delimit short code keywords or phrases in a sentence, use a single backtick at each end.   It'll look like this: `<a href="#">Foo</a>`.[^1]
 
 - Don't include extraneous information that's not relevant to the issue.   Distil it down!
 
@@ -74,3 +74,4 @@ Done!
 
 For examples of good questions, look on Stack Overflow for questions with hundreds of upvotes.   And When people help you, remember that acknowledgement costs little and increases the amount of joy in the world!
 
+[^1]: These two constructs are the same in Markdown, which you must use to create your README.md file for each project.
