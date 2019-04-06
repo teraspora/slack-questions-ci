@@ -50,7 +50,7 @@ It's important to think of the developers who are browsing the channels.   The f
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="3d link test - confirmatory page">
+    <meta name="description" content="Used merely as an example of a code block">
     <meta name="author" content="Example">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">    
