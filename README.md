@@ -74,6 +74,3 @@ To delimit short code keywords or phrases in a sentence, use a single backtick a
 You should definitely read the [Code Institute Slack Community Guidelines](https://codeinstitute.net/code-conduct-slack-community/), which has great advice about using the channels and asking for help.   For examples of good questions, look on Stack Overflow for questions with hundreds of upvotes.
 
 Also, when people help you, remember that acknowledgement costs little and increases the amount of joy in the world!
-
-"alias run='./manage.py runserver $IP:$PORT'"
-echo "alias testx ='cd $DIREC'">> ~/.bash_aliases
