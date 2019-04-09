@@ -42,7 +42,7 @@ It's important to think of the developers who are browsing the channels.   The f
 
 - If it's something that has software dependencies such as a Python/Heroku app, it might be relevant to specify package versions.
 
-- Don't attach screenshots of code.   Screenshots should rarely be necessary. Code, and console traffic, should be in code blocks, which are delimited at both ends by three backticks (the character at the top left of UK keyboards, just below the Escape key).   Just type three backticks, paste your code block, then type three more backticks.   It'll appear thus:
+- Don't attach screenshots of code.   Screenshots may sometimes be useful, but never for code! Code, and console traffic, should be in code blocks, which are delimited at both ends by three backticks (the character at the top left of UK keyboards, just below the Escape key).   Just type three backticks, paste your code block, then type three more backticks.   It'll appear thus:
 
 ```
 <!doctype html>
