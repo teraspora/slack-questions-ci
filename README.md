@@ -22,7 +22,7 @@ First look at the context the problem occurs in.   Can you change that?   If so,
 Can you simplify the code that seems to be causing the problem?   I often do this by copying the whole folder I'm working in to a scratch folder, deleting the `.git` sub-directory, then paring the code down, cutting out sections of code that shouldn't have a bearing on the issue, then checking if things still work, if the problem still occurs.
 
 If you get into a mess, `Ctrl+z` is your friend, and remember, you're just working in a scratch folder so no stress! 
-Get rid of code that seems irrelevant to the problem bit by bit till you have crystallised what the problem is and can show someone the code and explain the problem in a sentence.
+Get rid of code that seems irrelevant to the problem bit by bit till you have crystallised what the problem is and either solved it or can show someone the code and explain the problem in a sentence.
 
 
 ## Your Potential Helpers
