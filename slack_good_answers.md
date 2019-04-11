@@ -34,6 +34,8 @@ It's important to think of the developers who are browsing the channels.   The f
 
 - First, try to solve the problem yourself.   It's good to get into the habit of distilling your issue into a few keywords or a short quoted phrase that you can put into a search engines to find answers in forums like Stack Overflow, and tutorials to help you solve it yourself.   If you get an error message, copy and paste it, quoted with keywords specifying the context.   If you only find other similar questions, without satisfactory answers, try putting the word "solved" in your search query.  If you can fix it yourself using the plethora of resources available, you'll learn that lesson more deeply.
 
+- Some people recommend "Rubber Duck Debugging".   This means explaining your code, line by line, to a rubber duck on your desk!   Other objects may also serve this purpose, of course, but the point is, firstly, that if you can describe clearly what your is doing, then any disconnect between what it's supposed to do and what it actually does often becomes apparent, but also that you're forcing yourself to think about the code logically.
+
 - State the issue simply.   Say what you are trying to do, say what the expected behaviour is, and say what the actual behaviour is.   Say what context the problem occurs in.   Include a code block with minimal code to reproduce the problem.
 
 - If appropriate, include a link to your Cloud 9 workspace or Github repository.   If your code is deployed (to Github Pages or Heroku for instance) post a link to the deployed app.
