@@ -32,7 +32,7 @@ It's important to think of the developers who are browsing the channels.   The f
 
 ## Guidelines for Getting Good Answers Fast
 
-- First, try to solve the problem yourself.   It's good to get into the habit of distilling your issue into a few keywords or a short quoted phrase that you can put into a search engines to find answers in forums like Stack Overflow, and tutorials to help you solve it yourself.   If you get an error message, copy and paste it, quoted with keywords specifying the context.   If you only find other similar questions, without satisfactory answers, try putting the word "solved" in your search query  If you can fix it yourself using the plethora of resources available, you'll learn that lesson more deeply.
+- First, try to solve the problem yourself.   It's good to get into the habit of distilling your issue into a few keywords or a short quoted phrase that you can put into a search engines to find answers in forums like Stack Overflow, and tutorials to help you solve it yourself.   If you get an error message, copy and paste it, quoted with keywords specifying the context.   If you only find other similar questions, without satisfactory answers, try putting the word "solved" in your search query.  If you can fix it yourself using the plethora of resources available, you'll learn that lesson more deeply.
 
 - State the issue simply.   Say what you are trying to do, say what the expected behaviour is, and say what the actual behaviour is.   Say what context the problem occurs in.   Include a code block with minimal code to reproduce the problem.
 
