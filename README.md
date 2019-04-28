@@ -81,4 +81,4 @@ It's definitely worth creating a (free) account on Stack Overflow, as you can th
 
 If you eventually find a solution to a question you have posed, about which people have made suggestions and tried to help, then whether or not these ideas have helped you, please consider posting back in the channel, giving your solution.   This can help others.
 
-Also, when people help you, remember that acknowledgement costs little and increases the amount of joy in the world!   And look for opportunities to help other students.   It's hard to over-emphasise how much helping others with their code issues will help you yourself!
+Also, when people help you, remember that acknowledgement costs little and increases the amount of joy in the world!   And look for opportunities to help other students.   It's hard to over-emphasise how much helping others with their code issues will help you yourself, too.   Pay it forward!
