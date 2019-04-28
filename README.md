@@ -36,6 +36,8 @@ It's important to think of the developers who are browsing the channels.   The f
 
 - Some people recommend "Rubber Duck Debugging".   This means explaining your code, line by line, to a rubber duck on your desk!   Other objects may also serve this purpose, of course, but the point is, firstly, that if you can describe clearly what your code is doing, then any disconnect between what it's supposed to do and what it actually does often becomes apparent, but also that you're forcing yourself to think about the code logically.
 
+- Choose the best channel for your issue.   Many of the channels are named after the course modules.   If you need help with something specifically related to the module you're on, the name will guide you.   But if you're working on the data-centric module, for instance, but your problem is purely about how an element is rendered, it might be more appropriate to post in #css-fundamentals.   Another example:  if it's to do with generating HTML from a Jinja template, don't post in #html-fundamentals, as the students there won't have covered Jinja, and your code may confuse them!   Instead, post in the channel appropriate to the module where Jinja was introduced, i.e. #practical-python.
+
 - State the issue simply.   Say what you are trying to do, say what the expected behaviour is, and say what the actual behaviour is.   Say what context the problem occurs in.   Include a code block with minimal code to reproduce the problem.
 
 - If appropriate, include a link to your Cloud 9 workspace or Github repository.   If your code is deployed (to Github Pages or Heroku for instance) post a link to the deployed app.
@@ -75,4 +77,6 @@ To delimit short code keywords or phrases in a sentence, use a single backtick a
 
 You should definitely read the [Code Institute Slack Community Guidelines](https://codeinstitute.net/code-conduct-slack-community/), which has great advice about using the channels and asking for help, and also the [Code Institute troubleshooting tips page](https://code-institute-org.github.io/TroubleshootingTips/).   For examples of good questions, look on Stack Overflow for questions with hundreds of upvotes.
 
-Also, when people help you, remember that acknowledgement costs little and increases the amount of joy in the world!
+If you eventually find a solution to a question you have posed, about which people have made suggestions and tried to help, then whether or not these ideas have helped you, please consider posting back in the channel, giving your solution.   This can help others.
+
+Also, when people help you, remember that acknowledgement costs little and increases the amount of joy in the world!   And look for opportunities to help other students.   It's hard to over-emphasise how much helping others with their code issues will help you yourself!
