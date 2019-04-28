@@ -75,7 +75,9 @@ To delimit short code keywords or phrases in a sentence, use a single backtick a
 
 ## Finally...
 
-You should definitely read the [Code Institute Slack Community Guidelines](https://codeinstitute.net/code-conduct-slack-community/), which has great advice about using the channels and asking for help, and also the [Code Institute troubleshooting tips page](https://code-institute-org.github.io/TroubleshootingTips/).   For examples of good questions, look on Stack Overflow for questions with hundreds of upvotes.
+You should definitely read the [Code Institute Slack Community Guidelines](https://codeinstitute.net/code-conduct-slack-community/), which has great advice about using the channels and asking for help, and also the [Code Institute troubleshooting tips page](https://code-institute-org.github.io/TroubleshootingTips/).   For examples of good questions, look on [Stack Overflow](https://stackoverflow.com/) for questions with hundreds of upvotes.
+
+It's definitely worth creating a (free) account on Stack Overflow, as you can then ask and anser questions and start to build a reputation.   If you select the [Ask Question](https://stackoverflow.com/questions/ask) link, you will be asked to select tags - start typing, and choose one or two that are directly relevant - and then to enter your question title.   As you type, you'll see a filtered list of similar questions.   So often I find that one of these provides the required help, so I never actually need to ask my question.
 
 If you eventually find a solution to a question you have posed, about which people have made suggestions and tried to help, then whether or not these ideas have helped you, please consider posting back in the channel, giving your solution.   This can help others.
 
